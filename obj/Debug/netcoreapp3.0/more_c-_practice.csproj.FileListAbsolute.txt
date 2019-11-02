@@ -1,0 +1,11 @@
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/bin/Debug/netcoreapp3.0/more_c-_practice
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/bin/Debug/netcoreapp3.0/more_c-_practice.deps.json
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/bin/Debug/netcoreapp3.0/more_c-_practice.runtimeconfig.json
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/bin/Debug/netcoreapp3.0/more_c-_practice.runtimeconfig.dev.json
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/bin/Debug/netcoreapp3.0/more_c-_practice.dll
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/bin/Debug/netcoreapp3.0/more_c-_practice.pdb
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/obj/Debug/netcoreapp3.0/more_c-_practice.csprojAssemblyReference.cache
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/obj/Debug/netcoreapp3.0/more_c-_practice.AssemblyInfoInputs.cache
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/obj/Debug/netcoreapp3.0/more_c-_practice.AssemblyInfo.cs
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/obj/Debug/netcoreapp3.0/more_c-_practice.dll
+/home/student/PersonalProjects/dotnetPractice/more_c-_practice/obj/Debug/netcoreapp3.0/more_c-_practice.pdb
